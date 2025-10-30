@@ -1,6 +1,6 @@
 ﻿namespace Tutorial
 {
-    partial class Form1
+    partial class bombo
     {
         /// <summary>
         /// Variable del diseñador necesaria.

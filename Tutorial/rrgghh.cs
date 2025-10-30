@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace Tutorial
 {
-    public partial class Registro : Form
+    public partial class rrgghh : Form
     {
-        public Registro()
+        public rrgghh()
         {
             InitializeComponent();
         }

@@ -11,9 +11,9 @@ using System.Data.SqlClient;
 
 namespace Tutorial
 {
-    public partial class Form1 : Form
+    public partial class bombo : Form
     {
-        public Form1()
+        public bombo()
         {
             InitializeComponent();
         }
@@ -21,6 +21,7 @@ namespace Tutorial
         SqlConnection conexion = ConexionDB.ObtenerConexion();
         private void button1_Click(object sender, EventArgs e)
         {
+            //Hollaaaa
             conexion.Open();
             string consultaUsuario = "SELECT * FROM iniciar WHERE usuario = @usuario AND contraseña = @contraseña";
             SqlCommand comandoUsuario = new SqlCommand(consultaUsuario, conexion);

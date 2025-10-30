@@ -1,6 +1,6 @@
 ﻿namespace Tutorial
 {
-    partial class Registro
+    partial class rrgghh
     {
         /// <summary>
         /// Required designer variable.
