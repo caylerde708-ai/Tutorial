@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Tutorial
 {
-    internal class CN
+    internal class Idk
     {
     }
 
